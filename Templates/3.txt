@@ -1,0 +1,16 @@
+SIZE 50mm,30mm
+DENSITY 5
+DIRECTION 1
+REFERENCE 0,0
+CLS
+TEXT 18,30,"2",0,1,1,"%N26%"
+TEXT 18,60,"2",0,1,1,"%N26%"
+TEXT 60,90,"1",0,1,1,"Quantity"
+TEXT 170,88,"2",0,1,1," : %Wk% kg"
+TEXT 60,110,"1",0,1,1,"Use by"
+TEXT 172,110,"1",0,1,1," : %Ef%"
+TEXT 60,130,"1",0,1,1,"Batch no"
+TEXT 172,130,"1",0,1,1," : M01%Dm%%Dd%T%t%"
+BARCODE 60,160,"128",50,0,0,2,2,"80%B%%W4%00000000"
+PRINT 1,1
+

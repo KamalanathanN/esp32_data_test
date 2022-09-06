@@ -1,0 +1,5 @@
+{
+	"OTA": "0.9:21321:/1.0.bin",
+	"data_hash": "2",
+	"template_hash": "1"
+}
